@@ -19,7 +19,11 @@
 ██║     ██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██╔══██╗██║   ██║
 ███████╗██║██║ ╚████║██████╔╝██████╔╝███████╗██║  ██║╚██████╔╝██╗██╗██╗
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝╚═╝
-
-...spends his waking days reading and writing code, designing stuff, and trying to learn
-everything there is to know about...well, everything!
 ```
+
+👨‍💻 ...spends his waking days reading and writing code, designing stuff, and trying to learn
+everything there is to know about...well, everything!
+
+❤️ ...believes in building things that are accessible and inclusive for everyone.
+
+🌱 ...is a fresh graduate looking for work as a `${fancyTitleForWebStuff}` in Sweden.
