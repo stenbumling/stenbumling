@@ -21,12 +21,16 @@
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝╚═╝
 ```
 <samp>
+  ❤️ ...believes that great software begins with understanding and caring for the human race.
+  <br>
   👨‍💻 ...spends his waking days reading and writing code, designing stuff, and trying to learn everything there is to know about...well, everything!
   <br>
-  ❤️ ...believes in building things that are accessible and inclusive for everyone.
+  🌱 ...is currently exploring the depths of JavaScript internals.
   <br>
-  🌱 ...is a fresh graduate looking for work as a ${fancyTitleForWebStuff} in Sweden.
-
+  🕹️ ...loves to wind down with a real good platformer, RPG, or metroidvania.
+  <br>
+  👋 ...would be happy to hear from you, even if it's just to say hi.
+  
   ## Tech and tools I love working with
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
