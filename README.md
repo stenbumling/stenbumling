@@ -21,13 +21,13 @@
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝╚═╝
 ```
 <samp>
-  ❤️ ...believes that great software begins with understanding and caring for the human race.
+  ❤️ ...believes that great software begins with understanding and caring for people.
   <br>
   👨‍💻 ...spends his waking days reading and writing code, designing stuff, and trying to learn everything there is to know about...well, everything!
   <br>
   🌱 ...is currently exploring the depths of JavaScript internals.
   <br>
-  🕹️ ...loves to wind down with a real good platformer, RPG, or metroidvania.
+  🕹️ ...loves to wind down with a fun platformer, RPG, or metroidvania.
   <br>
   👋 ...would be happy to hear from you, even if it's just to say hi.
   
@@ -46,6 +46,7 @@
   [![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://p5js.org/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)](https://vitest.dev/)
+  [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
   [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
